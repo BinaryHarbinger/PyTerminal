@@ -1,6 +1,6 @@
 #PyTerminal Version 0.2 (Beta Version)
 
-#This project developed by allah.
+#This project developed by anonymsahis.
 
 #Purpose is developing Terminal like cmd or Linux Terminal.
 
